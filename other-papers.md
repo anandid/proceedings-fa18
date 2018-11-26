@@ -177,8 +177,7 @@ fa18-516-24, Sachith Withana
 fa18-516-23, Anand Sriramulu
 
   * Section: <https://github.com/cloudmesh-community/book/blob/master/chapters/faas/openfaas.md>
-  * Chapter: <https://github.com/cloudmesh-community/book/blob/master/chapters/pi/setup-multiple.md>
-  * Paper: <https://github.com/cloudmesh-community/cm-burn/blob/master/README.md>
-  * Project: <https://github.com/cloudmesh-community/fa18-516-23/blob/master/project-paper/paper.md>
+  * Chapter: <https://github.com/cloudmesh-community/book/blob/master/chapters/pi/setup-multiple.md>  
+  * Project: <https://github.com/cloudmesh-community/fa18-516-11/blob/master/project-report/report.md>
 
 
